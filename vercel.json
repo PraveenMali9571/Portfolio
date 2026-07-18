@@ -2,8 +2,5 @@
   "buildCommand": "",
   "outputDirectory": ".",
   "installCommand": "",
-  "framework": null,
-  "rewrites": [
-    { "source": "/", "destination": "/praveen-mali-portfolio.html" }
-  ]
+  "framework": null
 }
