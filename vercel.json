@@ -3,6 +3,13 @@
   "outputDirectory": ".",
   "installCommand": "",
   "framework": null,
+  "redirects": [
+    {
+      "source": "/favicon.ico",
+      "destination": "/assets/images/praveen-mali-full-stack-developer-profile.webp",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap.xml",
